@@ -4,9 +4,9 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Dispon%C3%ADvel-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white)
 
-Meu nome é Pablo Santana de Souza. Estou cursando Engenharia de Software na UNEB, com conclusão prevista para dezembro de 2027. Atuo no desenvolvimento backend com Python, principalmente utilizando FastAPI e SQLAlchemy, e possuo experiência prática em pipelines de RAG (Retrieval-Augmented Generation), machine learning e integração com modelos de linguagem (LLMs).
+**Meu nome é Pablo Santana de Souza. Estou cursando Engenharia de Software na UNEB, com conclusão prevista para dezembro de 2027. Atuo no desenvolvimento backend com Python, principalmente utilizando FastAPI e SQLAlchemy, e possuo experiência prática em pipelines de RAG (Retrieval-Augmented Generation), machine learning e integração com modelos de linguagem (LLMs).**
 
-Tenho interesse em construir soluções completas, do backend ao deploy, unindo boas práticas de engenharia de software a dados e inteligência artificial.
+**Tenho interesse em construir soluções completas, do backend ao deploy, unindo boas práticas de engenharia de software a dados e inteligência artificial.**
 
 📄 [Currículo em PDF](https://github.com/Pablo-Sant/Pablo-Sant/blob/main/arquivos/Pablo_Santana_CV.pdf)
 
@@ -14,30 +14,30 @@ Tenho interesse em construir soluções completas, do backend ao deploy, unindo 
 
 ### 🚀 Alguns projetos
 
-- [**TriagemIA**](https://github.com/Pablo-Sant/Plataforma_Educacao_Saude): sistema de pré consulta e apoio à decisão clínica, com triagem dinâmica, classificação de risco e resumo clínico via IA
-- [**Sistema ERP**](https://github.com/Pablo-Sant/ERP): backend completo em FastAPI, com autenticação JWT, Docker e CI/CD
-- [**RAG Código de Defesa do Consumidor**](https://github.com/Pablo-Sant/RAG_CDC): pipeline de RAG com LlamaIndex e deploy no Hugging Face Spaces
-- [**RAG Documentos Históricos**](https://github.com/Pablo-Sant/rag_atas_presidencia_conselho): RAG sobre atas municipais digitalizadas via OCR, com Pinecone
-- [**Previsão de Preço de Carros**](https://github.com/Pablo-Sant/previsao_preco_carro): modelo de machine learning (XGBoost) com deploy via Railway
+- **[TriagemIA](https://github.com/Pablo-Sant/Plataforma_Educacao_Saude): sistema de pré consulta e apoio à decisão clínica, com triagem dinâmica, classificação de risco e resumo clínico via IA**
+- **[Sistema ERP](https://github.com/Pablo-Sant/ERP): backend completo em FastAPI, com autenticação JWT, Docker e CI/CD**
+- **[RAG Código de Defesa do Consumidor](https://github.com/Pablo-Sant/RAG_CDC): pipeline de RAG com LlamaIndex e deploy no Hugging Face Spaces**
+- **[RAG Documentos Históricos](https://github.com/Pablo-Sant/rag_atas_presidencia_conselho): RAG sobre atas municipais digitalizadas via OCR, com Pinecone**
+- **[Previsão de Preço de Carros](https://github.com/Pablo-Sant/previsao_preco_carro): modelo de machine learning (XGBoost) com deploy via Railway**
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="Python" title="Python" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="FastAPI" title="FastAPI" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Supabase" title="Supabase" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="GitHub Actions (CI/CD)" title="GitHub Actions (CI/CD)" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-<img align="left" alt="C" title="C" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Scikit-learn" title="Scikit-learn" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img align="left" alt="Pandas" title="Pandas" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" title="NumPy" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Matplotlib" title="Matplotlib" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Git" title="Git" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Python" title="Python" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Supabase" title="Supabase" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="GitHub Actions (CI/CD)" title="GitHub Actions (CI/CD)" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="C" title="C" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Scikit-learn" title="Scikit-learn" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Pandas" title="Pandas" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="NumPy" title="NumPy" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Matplotlib" title="Matplotlib" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" title="React" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Git" title="Git" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br/>
 <br/>
@@ -50,10 +50,10 @@ Tenho interesse em construir soluções completas, do backend ao deploy, unindo 
 
 ### 🎓 Formação Técnica
 
-- Bacharelado em Engenharia de Software, UNEB (conclusão prevista: dezembro de 2027)
-- Machine Learning e Data Science com Python, Udemy
-- FastAPI: APIs Modernas, Udemy
-- SQLAlchemy, Udemy
+- **Bacharelado em Engenharia de Software, UNEB (conclusão prevista: dezembro de 2027)**
+- **Machine Learning e Data Science com Python, Udemy**
+- **FastAPI: APIs Modernas, Udemy**
+- **SQLAlchemy, Udemy**
 
 ---
 
