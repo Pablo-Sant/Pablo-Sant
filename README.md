@@ -44,7 +44,7 @@ Tenho interesse em construir soluções completas, do backend ao deploy, unindo 
 
 ### 📚 IA, Dados e DevOps
 
-`RAG` · `LlamaIndex` · `Pinecone` · `Scikit-Learn` · `XGBoost` · `SQLAlchemy` · `JWT` · `CI/CD` · `Groq` · `Estatística` · `Hugging Face Spaces` · `Railway`
+`RAG` · `LlamaIndex` · `Pinecone` · `Scikit-Learn` · `XGBoost` · `SQLAlchemy` · `JWT` · `CI/CD` · `Groq` · `Hugging Face Spaces` · `Railway`
 
 ---
 
@@ -65,13 +65,13 @@ Tenho interesse em construir soluções completas, do backend ao deploy, unindo 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pablo-Sant&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=Pablo-Sant&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Sant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pablo-Sant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
